@@ -1,2 +1,2 @@
 # Telli-TF2
-A project for Lernatelier 2
+Creators: Vin Appenzeller, Finn Neiger
