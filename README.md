@@ -1,2 +1,2 @@
-# Telli-TF2
+# Telli-Blender
 Creators: Vin Appenzeller, Finn Neiger
